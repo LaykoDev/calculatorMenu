@@ -5,4 +5,4 @@
 
 ### ❗️ | Considerations
 - ❗️ Consideer removing "using namespace std;" due to optimization reasons.
-- ❗️ Do't ask me for coding help, if you are reading this, you are as smarter like to edit the code.
+- ❗️ Don't ask me for coding help, if you are reading this, you are as smarter like to edit the code.
